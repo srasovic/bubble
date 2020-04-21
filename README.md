@@ -12,6 +12,6 @@ The following steps need to be performed for successful instalation:
     
 2. After succesfull instalation, run 'make' to build the tool
 
-All comments should be send to sasa_rasovic@mcafee.com
+All comments should be send to sasa@rasovic.net
 
 
